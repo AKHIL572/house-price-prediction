@@ -191,8 +191,7 @@ King-County-Housing-Dashboard
 
 Aspiring **Data Scientist | Data Analyst**
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
+* LinkedIn: https://www.linkedin.com/in/akhil-t-v/
 
 ---
 
